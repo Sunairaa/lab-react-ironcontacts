@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+img{
+  width: 80px;
+  height: 100px;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 2em;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+button{
+  border: none;
+  background-color: #282c34;
+  color: whitesmoke;
+  padding: 1em 2em;
+  margin: 1em;
+}
